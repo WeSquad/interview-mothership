@@ -17,6 +17,7 @@ Storage of project samples for coding skills demonstration in WeSquad recruitmen
 ## Content
 
 - [Front-end React base](https://github.com/facebook/create-react-app)
+- [Back-end Python Flask base](https://github.com/antkahn/flask-api-starter-kit)
 - [Back-end Node Express Mongoose base](https://github.com/diegohaz/rest)
 - [Back-end Node Express Postgres base](https://github.com/DayOnePl/dos-server)
 - [Back-end Node GraphQL base](https://github.com/glennreyes/graphpack)

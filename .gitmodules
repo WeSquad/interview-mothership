@@ -19,3 +19,6 @@
 [submodule "full-angular-node-express-mongoose"]
 	path = full-angular-node-express-mongoose
 	url = git@github.com:DavideViolante/Angular-Full-Stack.git
+[submodule "back-python-flask"]
+	path = back-python-flask
+	url = git@github.com:antkahn/flask-api-starter-kit.git
