@@ -4,3 +4,6 @@
 [submodule "full-react-node-express-graphql"]
 	path = full-react-node-express-graphql
 	url = git@github.com:kriasoft/react-starter-kit.git
+[submodule "back-node-express-mongoose"]
+	path = back-node-express-mongoose
+	url = git@github.com:diegohaz/rest.git

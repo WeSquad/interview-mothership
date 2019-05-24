@@ -17,6 +17,7 @@ Storage of project samples for coding skills demonstration in WeSquad recruitmen
 ## Content
 
 - [Front-end React base](https://github.com/facebook/create-react-app)
+- [Back-end Node Express Mongoose base](https://github.com/diegohaz/rest)
 - [Fullstack React Node Express GraphQL base](https://github.com/kriasoft/react-starter-kit)
 
 ## Install
@@ -29,7 +30,7 @@ git submodule update --init --recursive
 
 ## Usage
 
-Follow the related `subfolder/README.md` in order to install corresponding dependancies and run your sample project.
+Follow the related `subfolder/README.md` in order to install corresponding dependencies and run your sample project.
 
 ## Contribute
 
