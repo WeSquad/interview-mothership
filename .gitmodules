@@ -7,3 +7,6 @@
 [submodule "back-node-express-mongoose"]
 	path = back-node-express-mongoose
 	url = git@github.com:diegohaz/rest.git
+[submodule "back-node-graphql"]
+	path = back-node-graphql
+	url = git@github.com:glennreyes/graphpack.git
