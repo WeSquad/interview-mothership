@@ -31,3 +31,6 @@
 [submodule "full-python-flask-react"]
 	path = full-python-flask-react
 	url = https://github.com/dternyak/React-Redux-Flask
+[submodule "front-angular"]
+	path = front-angular
+	url = https://github.com/angular/angular-cli
