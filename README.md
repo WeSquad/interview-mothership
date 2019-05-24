@@ -16,7 +16,8 @@ Storage of project samples for coding skills demonstration in WeSquad recruitmen
 
 ## Content
 
-- [React front-end base](https://github.com/facebook/create-react-app)
+- [Front-end React base](https://github.com/facebook/create-react-app)
+- [Fullstack React Node Express GraphQL base](https://github.com/kriasoft/react-starter-kit)
 
 ## Install
 

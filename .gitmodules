@@ -1,3 +1,6 @@
 [submodule "front-react"]
 	path = front-react
 	url = git@github.com:facebook/create-react-app.git
+[submodule "full-react-node-express-graphql"]
+	path = full-react-node-express-graphql
+	url = git@github.com:kriasoft/react-starter-kit.git
