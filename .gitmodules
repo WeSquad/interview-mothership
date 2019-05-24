@@ -28,3 +28,6 @@
 [submodule "full-java-spring-angular-or-react"]
 	path = full-java-spring-angular-or-react
 	url = https://github.com/jhipster/generator-jhipster
+[submodule "full-python-flask-react"]
+	path = full-python-flask-react
+	url = https://github.com/dternyak/React-Redux-Flask

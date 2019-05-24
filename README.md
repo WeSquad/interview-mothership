@@ -22,6 +22,7 @@ Storage of project samples for coding skills demonstration in WeSquad recruitmen
 - [Back-end Node Express Postgres base](https://github.com/DayOnePl/dos-server)
 - [Back-end Node GraphQL base](https://github.com/glennreyes/graphpack)
 - [Fullstack Angular Node Express Mongoose base](https://github.com/DavideViolante/Angular-Full-Stack)
+- [Fullstack React Python Flask base](https://github.com/dternyak/React-Redux-Flask)
 - [Fullstack React Node Express GraphQL base](https://github.com/kriasoft/react-starter-kit)
 - [Fullstack Angular / React Java Spring base](https://github.com/jhipster/generator-jhipster)
 - [Fullstack React Java Spring base](https://github.com/pugnascotia/spring-react-boilerplate)
