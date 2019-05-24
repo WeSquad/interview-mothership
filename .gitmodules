@@ -22,3 +22,6 @@
 [submodule "back-python-flask"]
 	path = back-python-flask
 	url = git@github.com:antkahn/flask-api-starter-kit.git
+[submodule "full-java-spring-react"]
+	path = full-java-spring-react
+	url = git@github.com:pugnascotia/spring-react-boilerplate.git
