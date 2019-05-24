@@ -10,3 +10,6 @@
 [submodule "back-node-graphql"]
 	path = back-node-graphql
 	url = git@github.com:glennreyes/graphpack.git
+[submodule "back-node-express-postgres"]
+	path = back-node-express-postgres
+	url = git@github.com:DayOnePl/dos-server.git
