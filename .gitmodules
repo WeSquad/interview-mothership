@@ -40,3 +40,6 @@
 [submodule "full-java-play"]
 	path = full-java-play
 	url = https://github.com/playframework/playframework
+[submodule "full-react-dotnet"]
+	path = full-react-dotnet
+	url = https://github.com/kriasoft/aspnet-starter-kit.git
