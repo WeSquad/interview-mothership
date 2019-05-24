@@ -13,3 +13,6 @@
 [submodule "back-node-express-postgres"]
 	path = back-node-express-postgres
 	url = git@github.com:DayOnePl/dos-server.git
+[submodule "full-vue-node-express-mongo"]
+	path = full-vue-node-express-mongo
+	url = git@github.com:icebob/vue-express-mongo-boilerplate.git
