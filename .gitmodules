@@ -25,3 +25,6 @@
 [submodule "full-java-spring-react"]
 	path = full-java-spring-react
 	url = git@github.com:pugnascotia/spring-react-boilerplate.git
+[submodule "full-java-spring-angular-or-react"]
+	path = full-java-spring-angular-or-react
+	url = https://github.com/jhipster/generator-jhipster
