@@ -16,3 +16,6 @@
 [submodule "full-vue-node-express-mongo"]
 	path = full-vue-node-express-mongo
 	url = git@github.com:icebob/vue-express-mongo-boilerplate.git
+[submodule "full-angular-node-express-mongoose"]
+	path = full-angular-node-express-mongoose
+	url = git@github.com:DavideViolante/Angular-Full-Stack.git
