@@ -34,3 +34,9 @@
 [submodule "front-angular"]
 	path = front-angular
 	url = https://github.com/angular/angular-cli
+[submodule "full-scala-play"]
+	path = full-scala-play
+	url = https://github.com/playframework/playframework
+[submodule "full-java-play"]
+	path = full-java-play
+	url = https://github.com/playframework/playframework

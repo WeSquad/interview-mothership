@@ -25,8 +25,10 @@ Storage of project samples for coding skills demonstration in WeSquad recruitmen
 - [Fullstack Angular Node Express Mongoose base](https://github.com/DavideViolante/Angular-Full-Stack)
 - [Fullstack React Python Flask base](https://github.com/dternyak/React-Redux-Flask)
 - [Fullstack React Node Express GraphQL base](https://github.com/kriasoft/react-starter-kit)
+- [Fullstack Play Java base](https://github.com/playframework/playframework)
 - [Fullstack Angular / React Java Spring base](https://github.com/jhipster/generator-jhipster)
 - [Fullstack React Java Spring base](https://github.com/pugnascotia/spring-react-boilerplate)
+- [Fullstack Play Scala base](https://github.com/playframework/playframework)
 - [Fullstack Vue Node Express Mongo base](https://github.com/icebob/vue-express-mongo-boilerplate)
 
 ## Install
